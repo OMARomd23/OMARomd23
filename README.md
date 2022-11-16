@@ -1,5 +1,5 @@
 - 👋 Hi, I’m OMAR
-- 👀 I’m interested in IT networking
+- 👀 Interested in IT networking
 - 🌱 I’m currently Preparing for my ccna exam.
 - 💞️ I’m looking to collaborate on small IT projects
 - 📫 reach me on : omsoudomar23@gmail.com
