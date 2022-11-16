@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @OMARomd23. 
-      omd stands for OMESSAOUD my last name
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning the python programming language
+- 👋 Hi, I’m OMAR
+- 👀 I’m interested in IT networking
+- 🌱 I’m currently Preparing for my ccna exam.
 - 💞️ I’m looking to collaborate on small IT projects
 - 📫 reach me on : omsoudomar23@gmail.com
 
