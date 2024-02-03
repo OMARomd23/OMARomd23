@@ -1,5 +1,6 @@
 - 👋 Hi, I’m OMAR
-- 📫 Email : omsoudomar23@gmail.com
+<!---
+- 📫 Socials : 
 
 <!---
 OMARomd23/OMARomd23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
